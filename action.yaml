@@ -1,4 +1,4 @@
-name: Get Cloudify Environment Data
+name: Get Cloudify Environment Data Using Name/Labels or Both
 author: Isaac Shabtay
 description: Retrieves a Cloudify environment's data using name/labels or both, into a file and/or an output
 branding:
