@@ -17,6 +17,8 @@ Cloudify documentation (see [More Information](#more-information) below).
 
 If `outputs-file` is specified, then the environment's data is also written into that file.
 
+*Note* the result will be an array of environments and it could have more than one entry if environments have the same name/labels
+
 # Example
 
 ```yaml
