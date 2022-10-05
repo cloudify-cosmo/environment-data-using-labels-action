@@ -26,7 +26,7 @@ jobs:
   test_job:
     steps:
       - name: Get Environment Data using name and labels
-        uses: cloudify-cosmo/environment-data-using-labels-action@v1.2
+        uses: cloudify-cosmo/environment-data-using-labels-action@v1.3
         with:
           environment-name: "my-environment"
           labels: some_label:label_value,yet_another_label:some_value
